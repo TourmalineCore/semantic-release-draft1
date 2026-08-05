@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2.0-alpha.3](https://github.com/TourmalineCore/semantic-release-draft1/compare/1.2.0-alpha.2...1.2.0-alpha.3) (2026-08-05)
+
+### Bug Fixes
+
+* [#9](https://github.com/TourmalineCore/semantic-release-draft1/issues/9) ([3404382](https://github.com/TourmalineCore/semantic-release-draft1/commit/34043829993695fca9cf21ccbfcc78d2c5b1065f))
+
 ## [1.2.0-alpha.2](https://github.com/TourmalineCore/semantic-release-draft1/compare/1.2.0-alpha.1...1.2.0-alpha.2) (2026-08-05)
 
 ### Features
