@@ -9,7 +9,7 @@ module.exports = {
         { "name": 'develop', "prerelease": 'alpha' },
         { "name": '+([0-9]).x/master', "range": '${name.match(/^(\\d+)\\.x/)[1]}.x' },
         { "name": '+([0-9]).x/release/*', "prerelease": '${name.match(/^(\\d+)\\.x/)[1]}x-rc' },
-        { "name": '+([0-9]).x/hotfix/*', "prerelease": '${name.match(/^(\\d+)\\.x/)[1]}x-holfix' },
+        { "name": '+([0-9]).x/hotfix/*', "prerelease": '${name.match(/^(\\d+)\\.x/)[1]}x-hotfix' },
         { "name": '+([0-9]).x/develop', "prerelease": '${name.match(/^(\\d+)\\.x/)[1]}x-alpha' },
     ],
     "tagFormat": '${version}',
