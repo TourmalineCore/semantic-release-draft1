@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0-rc.2](https://github.com/TourmalineCore/semantic-release-draft1/compare/1.4.0-rc.1...1.4.0-rc.2) (2026-08-05)
+
+### Bug Fixes
+
+* [#13](https://github.com/TourmalineCore/semantic-release-draft1/issues/13) ([4f5e00a](https://github.com/TourmalineCore/semantic-release-draft1/commit/4f5e00ab171e1495dff643df53414b0db5fc72ba))
+* [#13](https://github.com/TourmalineCore/semantic-release-draft1/issues/13) ([31b43fd](https://github.com/TourmalineCore/semantic-release-draft1/commit/31b43fd763b898e8e630d837b45b5d640e23760b))
+
 ## [1.3.1](https://github.com/TourmalineCore/semantic-release-draft1/compare/1.3.0...1.3.1) (2026-08-05)
 
 ### Bug Fixes
