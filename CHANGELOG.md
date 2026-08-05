@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.7.0-1x-rc.2](https://github.com/TourmalineCore/semantic-release-draft1/compare/1.7.0-1x-rc.1...1.7.0-1x-rc.2) (2026-08-05)
+
+### Bug Fixes
+
+* [#19](https://github.com/TourmalineCore/semantic-release-draft1/issues/19) ([a63c277](https://github.com/TourmalineCore/semantic-release-draft1/commit/a63c2774acbde556875b4241963259504d37c4d1))
+
 ## [1.6.1](https://github.com/TourmalineCore/semantic-release-draft1/compare/1.6.0...1.6.1) (2026-08-05)
 
 ### Bug Fixes
@@ -11,6 +17,17 @@
 ### Bug Fixes
 
 * [#19](https://github.com/TourmalineCore/semantic-release-draft1/issues/19) ([a63c277](https://github.com/TourmalineCore/semantic-release-draft1/commit/a63c2774acbde556875b4241963259504d37c4d1))
+## [1.7.0-1x-rc.1](https://github.com/TourmalineCore/semantic-release-draft1/compare/1.6.0...1.7.0-1x-rc.1) (2026-08-05)
+
+### Features
+
+* [#18](https://github.com/TourmalineCore/semantic-release-draft1/issues/18) ([75c2683](https://github.com/TourmalineCore/semantic-release-draft1/commit/75c26838bcfde288add914d0104afb6438d67bb6))
+
+## [1.7.0-1x-alpha.1](https://github.com/TourmalineCore/semantic-release-draft1/compare/1.6.0...1.7.0-1x-alpha.1) (2026-08-05)
+
+### Features
+
+* [#18](https://github.com/TourmalineCore/semantic-release-draft1/issues/18) ([75c2683](https://github.com/TourmalineCore/semantic-release-draft1/commit/75c26838bcfde288add914d0104afb6438d67bb6))
 
 ## [1.6.0](https://github.com/TourmalineCore/semantic-release-draft1/compare/1.5.0...1.6.0) (2026-08-05)
 
